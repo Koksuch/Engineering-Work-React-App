@@ -6,3 +6,5 @@ Repozytorium zawiera aplikację wykorzystaną w pracy inżynierskiej
 
 Aplikacja to prosta strona internetowa pływalni, na której można wybrać oraz zarezerwować
 tor sportowy poprzez kliknięcie odpowiedniej daty, godziny oraz numeru toru.
+
+Cały interfejs wraz z opisem został przdstawiony w postaci zrzutów ekranu w pliku.
