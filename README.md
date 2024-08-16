@@ -1,10 +1,10 @@
-# Praca-Inzynierska-Aplikacja
+# Engineering Work - React App
 
-### Temat pracy - Strona pływalni z możliwością rezerwacji toru
+### Theme of the work - Website of the swimming pool with the possibility of booking a track
 
-Repozytorium zawiera aplikację wykorzystaną w pracy inżynierskiej
+Repository contains application used in engineering work
 
-Aplikacja to prosta strona internetowa pływalni, na której można wybrać oraz zarezerwować
-tor sportowy poprzez kliknięcie odpowiedniej daty, godziny oraz numeru toru.
+The app is a simple swimming pool website where you can select and reserve a
+sports track by clicking on the appropriate date, time and track number.
 
-Cały interfejs wraz z opisem został przdstawiony w postaci zrzutów ekranu w pliku [Opis interfejsu](https://github.com/Koksuch/Praca-Inzynierska-React-App/blob/master/INTERFEJS%20U%C5%BBYTKOWNIKA%20-%20OPIS.pdf).
+The entire interface along with the description is presented in the form of screenshots in the file [User Interface](https://github.com/Koksuch/Praca-Inzynierska-React-App/blob/master/INTERFEJS%20U%C5%BBYTKOWNIKA%20-%20OPIS.pdf).
